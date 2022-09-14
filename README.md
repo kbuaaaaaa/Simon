@@ -1,11 +1,10 @@
 # Simon
-Simon is a computer game developed in C++ with SDL2 Library.The game started 
-when Bua (the hooman) is too lazy to get out of her bed. Simon has to take care of his lazy hooman.
-He went to Bua’s mother and she hired him as a house guard. Now and then he will use is 
-money to go to the gym where he can increase his strength or to the groomer where he 
-can get a haircut and be a handsome dog. Simon can buy Bua gifts to make sure his 
-human is happy. And when he is handsome and strong enough, cute girl doggo will fall for
-him.
+Simon is a computer game developed in C++ with SDL2 Library.
+The game started when Bua (the hooman) is too lazy to get out of her bed. Simon has to take care of his lazy hooman.
+He went to Bua’s mother and she hired him as a house guard.
+Now and then he will use is money to go to the gym where he can increase his strength or to the groomer where he can get a haircut and be a handsome dog. 
+Simon can buy Bua gifts to make sure his human is happy.
+And when he is handsome and strong enough, cute girl doggo will fall for him.
 
 # Screenshots
 ![](https://user-images.githubusercontent.com/72684195/190178782-0f679514-9064-484f-a35a-75ca1a7ca2a1.png)
